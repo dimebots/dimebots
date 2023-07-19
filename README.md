@@ -1,4 +1,5 @@
 
+![IMG_20230501_121034](https://github.com/dimebots/dimebots/assets/139924965/8d8c6747-6d2d-4196-b067-b591959a2c15)
 
 Dimebots are a collection of autonomous and self-contained micro-robots that are as small as a dime and weigh less than a nickel, making Dimebots some of the smallest robots in the world.
 
