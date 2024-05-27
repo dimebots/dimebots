@@ -8,10 +8,7 @@ Dimebots are a collection of autonomous and self-contained micro-robots that are
 ![IMG_20230429_155456 (2)](https://github.com/dimebots/dimebots/assets/139924965/1aacc8e3-4221-4821-8f1b-4198305bee7e)
 
 
-													<h1 class="entry-title">Hardware</h1>
-		</header>
 
-		<div class="entry-content">
 			
 <p><strong>Microchip/Atmel ATTiny1614 &amp; Texas Instruments DRV8837</strong></p>
 
