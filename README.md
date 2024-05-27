@@ -401,3 +401,4 @@ var wpcf7 = {"api":{"root":"https:\/\/www.dimebots.com\/wp-json\/","namespace":"
 
 
 </body></html>
+![IMG_20230501_121034](https://github.com/dimebots/dimebots/assets/139924965/a1792b73-a842-4811-a5ef-a0f74e44d7f3)
