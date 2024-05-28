@@ -121,28 +121,8 @@ with a host of features, namely:</p>
 <li>3.0V 37000RPM 8mA</li>
  <li>3.7V 47000RPM 10mA</li>
  <li>5.0V 62000RPM 25mA</li>
-
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![IMG_20230503_111528](https://github.com/dimebots/dimebots/assets/139924965/0cd07339-07de-4682-89a7-eea540881a84)
 
 </body></html>
 
