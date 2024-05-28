@@ -96,7 +96,7 @@ The CH9141 module integrates master and slave functionality, while being configu
 
 <p><strong>Microchip MCP73831 Linear Charge Management Controller</strong></p>
 
-The Microchip MCP73831 Linear Charge Management Controller is a tiny 500mA linear charge management controller which includes integrated a pass transistor, integrated current sensing, and reverse discharge protection in 5-pin SOT-23 and thermally-efficient 8-pin 2mm x 3mm Dual-Flat No-Leads (DFN) package. Additionally, the Microchip MCP73831 features
+<p>The Microchip MCP73831 Linear Charge Management Controller is a tiny 500mA linear charge management controller which includes integrated a pass transistor, integrated current sensing, and reverse discharge protection in 5-pin SOT-23 and thermally-efficient 8-pin 2mm x 3mm Dual-Flat No-Leads (DFN) package. Additionally, the Microchip MCP73831 features:</p>
 <ul>
     <li>High accuracy preset output voltage regulation (+/-0.75%)</li>
     <li>User-programmable charge current</li>
@@ -108,9 +108,9 @@ The Microchip MCP73831 Linear Charge Management Controller is a tiny 500mA linea
 The MCP73831 device is a highly advanced linear charge management controllers for use in space-limited, cost-sensitive applications.
 
 
+<p><strong>3.7V 30mAh Rechargeable Lithium Polymer (LiPo) Battery</strong>p></p>strong>
 
-
-
+<p>The main factor that ultimately determined the size of the robot (and most every robot in the world) is the size of the battery. The balancing act between battery size and power is challenging to say the least. On one hand, I needed something that fit in the dimensions of the robot. On the other hand, I needed a battery that provided enough voltage and amperage to run the robot and its associated peripherals, while ensuring a robot runtime that is acceptable. The battery chosen is a 3.7V 30mAh Rechargeable LiPo Battery.</p>
 
 
 
