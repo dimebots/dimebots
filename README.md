@@ -7,6 +7,7 @@ Dimebots are a collection of autonomous and self-contained micro-robots that are
 ![IMG_20230429_155623](https://github.com/dimebots/dimebots/assets/139924965/6b5892ba-6ebe-4dd0-a2ab-0156e3d4bcc4)
 ![IMG_20230429_155456 (2)](https://github.com/dimebots/dimebots/assets/139924965/1aacc8e3-4221-4821-8f1b-4198305bee7e)
 
+![attiny_schematic-1536x1186](https://github.com/dimebots/dimebots/assets/139924965/53d4eef8-3d9a-4388-a16e-5a4042691691)
 
 
 			
@@ -87,7 +88,6 @@ with a host of features, namely:</p>
 <li>Small Footprint – 8-Pin WSON With Thermal Pad with a 2.0mm × 2.0mm size</li>
 </u!>
 
-![attiny_schematic-1536x1186](https://github.com/dimebots/dimebots/assets/139924965/2a9a0af5-4a68-4203-8ef8-d54f5f45e81e)
 ![eagle_board_attiny-300x243](https://github.com/dimebots/dimebots/assets/139924965/11832263-8bc4-4e8f-9013-51b32a9bcc3d)
 ![IMG_20230503_114437-1536x1241](https://github.com/dimebots/dimebots/assets/139924965/a00f312b-3a2e-45e7-b119-306d8c87de41)
 
