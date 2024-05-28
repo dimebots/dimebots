@@ -114,7 +114,7 @@ with a host of features, namely:</p>
 
 
 <p><strong>Motor – 4mm x 8mm Pager Motor</strong>p></p></strong>
-![IMG_20230503_111528](https://github.com/dimebots/dimebots/assets/139924965/e9f362c3-4d1c-4e8f-a7a5-eb2a393b6bda)
+
 
 <p>The 4mm x 8mm pager motors used are coreless motors with a .70mm shaft diameter. Manufacturer test data states that these motors run at:</p>
 <ul>
@@ -123,7 +123,7 @@ with a host of features, namely:</p>
  <li>3.7V 47000RPM 10mA</li>
  <li>5.0V 62000RPM 25mA</li>
 </ul>
-
+![dimebots_logo](https://github.com/dimebots/dimebots/assets/139924965/568dd710-8aad-47ed-a138-3d70569bec24)
 </body></html>
 
 
