@@ -91,7 +91,8 @@ with a host of features, namely:</p>
 
 ![eagle_board_attiny-300x243](https://github.com/dimebots/dimebots/assets/139924965/e90a3dd0-da3b-4e9c-8e0c-044abcdfd799)
 
-![eagle_board_attiny-300x243](https://github.com/dimebots/dimebots/assets/139924965/986f2955-51d6-44ad-b529-1c2b8eb4c7a4)
+
+![attiny_schematic-1536x1186](https://github.com/dimebots/dimebots/assets/139924965/99ef37a6-e570-49a5-b51b-2ec9e2601429)
 
 
 </body></html>
