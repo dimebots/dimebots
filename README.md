@@ -73,7 +73,19 @@ with a host of features, namely:</p>
 
 
 
+<p><strong>Nanjing Qinheng Microelectronics CH9141 Bluetooth (BLE4.2) Module</strong></p>
 
+<p>Searching for a Bluetooth LE module that is tiny enough to fit the constraints of the robots mainboard while also providing for some type of serial communications is a challenge. All of the traditional Bluetooth 2.0 Serial Port Profile (SPP) modules were either too large or too power hungry to meet the dime-sized requirements of the Dimebots. After a few weeks of exhaustive searching, I discovered the CH9141. The CH9141 module ticked all of the requirements I needed, including:</p>
+<ul>
+   <li> Supporting the standard Bluetooth V4.2 protocol</li>
+   <li> Bluetooth transmission distance up to 100 meters</li>
+   <li> Two-way transparent transmission of serial port and Bluetooth data</li>
+   <li> Support Bluetooth broadcast, host, and slave modes</li>
+   <li> Support serial port AT command configuration</li>
+   <li> Serial port baud rate supporting 300bps all the way up to 921600bps</li>
+   <li> Support for adjustable serial port parameters</li>
+</ul>
+The CH9141 module integrates master and slave functionality, while being configured through AT serial commands. The serial AT commands were used for configuring the CH9141 module to set the modules device name, module password, and serial baud rate to 9600bps.
 
 
 
