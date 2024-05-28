@@ -115,7 +115,6 @@ with a host of features, namely:</p>
 <p><strong>3.7V 30mAh Rechargeable Lithium Polymer (LiPo) Battery</strong></p>
 
 <p>The main factor that ultimately determined the size of the robot (and most every robot in the world) is the size of the battery. The balancing act between battery size and power is challenging to say the least. On one hand, I needed something that fit in the dimensions of the robot. On the other hand, I needed a battery that provided enough voltage and amperage to run the robot and its associated peripherals, while ensuring a robot runtime that is acceptable. The battery chosen is a 3.7V 30mAh Rechargeable LiPo Battery.</p>
-![IMG_20230503_112341](https://github.com/dimebots/dimebots/assets/139924965/e5dc07d7-2fec-4273-ab73-dd35c1cb532f)
 
 
 <p><strong>Motor – 4mm x 8mm Pager Motor</strong></p>
