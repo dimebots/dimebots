@@ -95,10 +95,13 @@ with a host of features, namely:</p>
 ![IMG_20230503_111732](https://github.com/dimebots/dimebots/assets/139924965/98d092f8-3d4d-4310-896a-bfc6f3fa6018)
 
 ![ch9141_board](https://github.com/dimebots/dimebots/assets/139924965/89ae9ca2-ba04-44c9-a0aa-cc3c8d20d75b)
+![ch9141_schematic](https://github.com/dimebots/dimebots/assets/139924965/1bb5251a-da8a-44fe-9ea6-75258e0fe492)
+![IMG_20230429_160111](https://github.com/dimebots/dimebots/assets/139924965/126e7b4f-70f8-42b6-a0cf-4aff8d041450)
 
 <p><strong>Microchip MCP1700 Low Dropout (LDO) Voltage Regulator</strong></p>
 
 <p>A source of a stable and clean 3.3V is needed to power the dimebot and its peripherals. The Microchip MCP1700 Low Dropout (LDO) Voltage Regulator is a CMOS low dropout positive voltage regulator which can source up to 250mA of current with an extremely low input-output voltage differential of 178mV at 250mA. The low dropout voltage combined with the low current consumption of only 1.6µA makes this part ideal for battery operation. The low voltage differential (dropout voltage) extends battery operating lifetime. The MCP1700 is stable with 1.0µF ceramic output capacitor. It also permits high currents in small packages when operated with minimum VIN – VOUT differentials. The circuit also incorporates short-circuit protection & over temperature protection to ensure maximum reliability.</p>
+
 
 
 <p><strong>Microchip MCP73831 Linear Charge Management Controller</strong></p>
