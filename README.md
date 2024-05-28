@@ -89,9 +89,23 @@ with a host of features, namely:</p>
 The CH9141 module integrates master and slave functionality, while being configured through AT serial commands. The serial AT commands were used for configuring the CH9141 module to set the modules device name, module password, and serial baud rate to 9600bps.
 
 
+<p><strong>Microchip MCP1700 Low Dropout (LDO) Voltage Regulator</strong></p>
+
+<p>A source of a stable and clean 3.3V is needed to power the dimebot and its peripherals. The Microchip MCP1700 Low Dropout (LDO) Voltage Regulator is a CMOS low dropout positive voltage regulator which can source up to 250mA of current with an extremely low input-output voltage differential of 178mV at 250mA. The low dropout voltage combined with the low current consumption of only 1.6µA makes this part ideal for battery operation. The low voltage differential (dropout voltage) extends battery operating lifetime. The MCP1700 is stable with 1.0µF ceramic output capacitor. It also permits high currents in small packages when operated with minimum VIN – VOUT differentials. The circuit also incorporates short-circuit protection & over temperature protection to ensure maximum reliability.</p>
 
 
+<p><strong>Microchip MCP73831 Linear Charge Management Controller</strong></p>
 
+The Microchip MCP73831 Linear Charge Management Controller is a tiny 500mA linear charge management controller which includes integrated a pass transistor, integrated current sensing, and reverse discharge protection in 5-pin SOT-23 and thermally-efficient 8-pin 2mm x 3mm Dual-Flat No-Leads (DFN) package. Additionally, the Microchip MCP73831 features
+<ul>
+    <li>High accuracy preset output voltage regulation (+/-0.75%)</li>
+    <li>User-programmable charge current</li>
+    <li>Charge status output can directly drive LEDs</li>
+    <li>On-chip thermal regulation</li>
+    <li>Preconditioning and end-of-charge ratio options</li>
+    <li>Under-voltage lockout</li>
+</ul>
+The MCP73831 device is a highly advanced linear charge management controllers for use in space-limited, cost-sensitive applications.
 
 
 
