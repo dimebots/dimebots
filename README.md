@@ -108,12 +108,12 @@ with a host of features, namely:</p>
 <p></p>The MCP73831 device is a highly advanced linear charge management controllers for use in space-limited, cost-sensitive applications.</p>
 
 
-<p><strong>3.7V 30mAh Rechargeable Lithium Polymer (LiPo) Battery</strong>p></p>strong>
+<p><strong>3.7V 30mAh Rechargeable Lithium Polymer (LiPo) Battery</strong></p>
 
 <p>The main factor that ultimately determined the size of the robot (and most every robot in the world) is the size of the battery. The balancing act between battery size and power is challenging to say the least. On one hand, I needed something that fit in the dimensions of the robot. On the other hand, I needed a battery that provided enough voltage and amperage to run the robot and its associated peripherals, while ensuring a robot runtime that is acceptable. The battery chosen is a 3.7V 30mAh Rechargeable LiPo Battery.</p>
 
 
-<p><strong>Motor – 4mm x 8mm Pager Motor</strong>p></p></strong>
+<p><strong>Motor – 4mm x 8mm Pager Motor</strong></p>
 
 
 <p>The 4mm x 8mm pager motors used are coreless motors with a .70mm shaft diameter. Manufacturer test data states that these motors run at:</p>
@@ -123,7 +123,6 @@ with a host of features, namely:</p>
  <li>3.7V 47000RPM 10mA</li>
  <li>5.0V 62000RPM 25mA</li>
 </ul>
-![dimebots_logo](https://github.com/dimebots/dimebots/assets/139924965/568dd710-8aad-47ed-a138-3d70569bec24)
 </body></html>
 
 
