@@ -90,8 +90,10 @@ with a host of features, namely:</p>
    <li> Serial port baud rate supporting 300bps all the way up to 921600bps</li>
    <li> Support for adjustable serial port parameters</li>
 </ul>
-<p></p>The CH9141 module integrates master and slave functionality, while being configured through AT serial commands. The serial AT commands were used for configuring the CH9141 module to set the modules device name, module password, and serial baud rate to 9600bps.</p>
+<p>The CH9141 module integrates master and slave functionality, while being configured through AT serial commands. The serial AT commands were used for configuring the CH9141 module to set the modules device name, module password, and serial baud rate to 9600bps.</p>
+![IMG_20230503_111732](https://github.com/dimebots/dimebots/assets/139924965/bf8e6262-aa25-4093-9293-d80056a0c3e4)
 
+![ch9141_board](https://github.com/dimebots/dimebots/assets/139924965/89ae9ca2-ba04-44c9-a0aa-cc3c8d20d75b)
 
 <p><strong>Microchip MCP1700 Low Dropout (LDO) Voltage Regulator</strong></p>
 
