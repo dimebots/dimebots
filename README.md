@@ -65,6 +65,48 @@ with a host of features, namely:</p>
 ![eagle_board_attiny-300x243](https://github.com/dimebots/dimebots/assets/139924965/bedb6f3a-1619-4274-baf1-7f7ee70e163a)
 ![IMG_20230503_114437-1536x1241](https://github.com/dimebots/dimebots/assets/139924965/96b66505-b5ce-4ca0-af4b-7a22ec715334)
 
+Vishay VCNL4040 Proximity Sensor
+
+<p>I sampled and tested numerous proximity sensors to find one that is power friendly, small, and available. This included sensors such as the Broadcom APDS-9960, the ON Semiconductor QRE1113, and the Sharp GP2S60. I finally selected the VCNL4040 from Vishay that interfaced with the ATTiny1614 using the I²C protocol.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </body></html>
 
