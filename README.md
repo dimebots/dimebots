@@ -91,7 +91,8 @@ with a host of features, namely:</p>
    <li> Support for adjustable serial port parameters</li>
 </ul>
 <p>The CH9141 module integrates master and slave functionality, while being configured through AT serial commands. The serial AT commands were used for configuring the CH9141 module to set the modules device name, module password, and serial baud rate to 9600bps.</p>
-![IMG_20230503_111732](https://github.com/dimebots/dimebots/assets/139924965/bf8e6262-aa25-4093-9293-d80056a0c3e4)
+
+![IMG_20230503_111732](https://github.com/dimebots/dimebots/assets/139924965/98d092f8-3d4d-4310-896a-bfc6f3fa6018)
 
 ![ch9141_board](https://github.com/dimebots/dimebots/assets/139924965/89ae9ca2-ba04-44c9-a0aa-cc3c8d20d75b)
 
