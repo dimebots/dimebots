@@ -73,7 +73,10 @@ with a host of features, namely:</p>
 <p>I sampled and tested numerous proximity sensors to find one that is power friendly, small, and available. This included sensors such as the Broadcom APDS-9960, the ON Semiconductor QRE1113, and the Sharp GP2S60. I finally selected the VCNL4040 from Vishay that interfaced with the ATTiny1614 using the I²C protocol.</p>
 
 
+![IMG_20230503_114449](https://github.com/dimebots/dimebots/assets/139924965/31ef3aef-3fc7-483c-a8bc-1b13cd481ad7)
+![vcnl4040_board](https://github.com/dimebots/dimebots/assets/139924965/1ab9c977-46a9-4fb0-9e61-afef2bf3c6c8)
 
+![vcnl4040_schematic](https://github.com/dimebots/dimebots/assets/139924965/adf03c69-86e0-4d80-a118-d6f68d41c5b5)
 
 <p><strong>Nanjing Qinheng Microelectronics CH9141 Bluetooth (BLE4.2) Module</strong></p>
 
