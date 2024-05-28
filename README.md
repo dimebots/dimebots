@@ -85,10 +85,10 @@ with a host of features, namely:</p>
 
 
 <li>Small Footprint – 8-Pin WSON With Thermal Pad with a 2.0mm × 2.0mm size</li>
-</ul>
-![attiny_schematic-1536x1186](https://github.com/dimebots/dimebots/assets/139924965/81393d1b-b9b2-4371-8e08-7abc79202b82)
-![eagle_board_attiny-300x243](https://github.com/dimebots/dimebots/assets/139924965/75408be9-4d2f-4388-b75c-9222497693c9)
-![IMG_20230503_114437-1536x1241](https://github.com/dimebots/dimebots/assets/139924965/ca377248-b9c1-44b5-b9d4-b15e46eea095)
+</u![IMG_20230503_114437-1536x1241](https://github.com/dimebots/dimebots/assets/139924965/b8a45fbf-b96a-4dc1-bdcf-e5847ad39ef4)
+l>![eagle_board_attiny-300x243](https://github.com/dimebots/dimebots/assets/139924965/b67fd092-d926-4c4a-b77d-dba743ba6513)
+![attiny_schematic-1536x1186](https://github.com/dimebots/dimebots/assets/139924965/2851ba37-c491-4d90-a517-a2a04db447a4)
+
 
 
 
