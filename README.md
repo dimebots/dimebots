@@ -52,36 +52,18 @@ with a host of features, namely:</p>
 
 <ul>
 <li>1.8-A Maximum Drive Current</li>
-
-
-
 <li>Separate Motor and Logic Supply Pins</li>
-
-
-
 <li>Motor VM: 0 to 11 V</li>
-
-
-
 <li>Logic VCC: 1.8 to 7 V</li>
-
-
-
 <li>PWM Interface with IN1 and IN2 receiving PWM input</li>
-
-
-
 <li>Low-Power Sleep Mode With 120-nA Maximum Sleep Current</li>
-
-
-
 <li>nSLEEP pin</li>
-
-
-
 <li>Small Footprint – 8-Pin WSON With Thermal Pad with a 2.0mm × 2.0mm size</li>
 </u!>
 
+![attiny_schematic-1536x1186](https://github.com/dimebots/dimebots/assets/139924965/be3f46de-5b75-49ac-afb5-af3085e33ebf)
+![eagle_board_attiny-300x243](https://github.com/dimebots/dimebots/assets/139924965/bedb6f3a-1619-4274-baf1-7f7ee70e163a)
+![IMG_20230503_114437-1536x1241](https://github.com/dimebots/dimebots/assets/139924965/96b66505-b5ce-4ca0-af4b-7a22ec715334)
 
 
 </body></html>
