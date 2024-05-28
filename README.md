@@ -106,7 +106,7 @@ with a host of features, namely:</p>
     <li>Preconditioning and end-of-charge ratio options</li>
     <li>Under-voltage lockout</li>
 </ul>
-<p></p>The MCP73831 device is a highly advanced linear charge management controllers for use in space-limited, cost-sensitive applications.</p>
+<p>The MCP73831 device is a highly advanced linear charge management controllers for use in space-limited, cost-sensitive applications.</p>
 ![IMG_20230503_114406](https://github.com/dimebots/dimebots/assets/139924965/3c929153-f06a-4f63-9a5c-2dbe4b3692da)
 ![charger_board](https://github.com/dimebots/dimebots/assets/139924965/b7d3524d-81ab-4f2d-9492-2b2d57207e61)
 
